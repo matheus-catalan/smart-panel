@@ -11,6 +11,7 @@ export default function Home(){
     
     return (
         <div className="container">
+            "teste"
             <div className="header">
                 <Timer></Timer>
             </div>
