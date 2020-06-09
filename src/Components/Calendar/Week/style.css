@@ -1,0 +1,26 @@
+.container-week {
+    width: 100%;
+    height: 100px;
+    display: flex !important;
+    align-items: center;
+    justify-content: space-between;
+
+
+    color: linear-gradient(to right, transparent, transparent);
+}
+
+.day{
+    width: 70px;
+    height: 100%;
+    font-size: 18px;
+}
+
+.current {
+    border: 2px solid #757575;
+    border-radius: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+
+
+
